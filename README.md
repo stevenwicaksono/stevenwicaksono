@@ -1,10 +1,12 @@
 ## Yoo... Chat! I'm Steven Andrian Pranata Wicaksono 👋
 
-<video src="URL-VIDEO-KAMU/WhatsApp%20Video%202026-11-24%20at%2022.56.18.mp4" controls autoplay loop muted playsinline width="100%"></video>
+<!-- Ganti URL di bawah dengan link hasil upload video di GitHub / hosting video -->
 
-<!-- Alternatif jika video tidak terputar di beberapa browser/viewer GitHub, sediakan juga link klik langsung: -->
+> 🎬 **Video:** [Tonton WhatsApp Video 2026-11-24 at 22.56.18.mp4](URL-HASIL-UPLOAD-VIDEO)
 
-> 🎬 _Nggak muncul pemutar videonya? Klik di sini untuk nonton: [WhatsApp Video 2026-11-24 at 22.56.18.mp4](URL-VIDEO-KAMU/WhatsApp%20Video%202026-11-24%20at%2022.56.18.mp4)_
+<!-- Jika ingin menyertakan gambar preview/thumbnail yang bisa diklik:
+[![Preview Video](URL-GAMBAR-THUMBNAIL)](URL-HASIL-UPLOAD-VIDEO)
+-->
 
 <!--
 **stevenwicaksono/stevenwicaksono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
