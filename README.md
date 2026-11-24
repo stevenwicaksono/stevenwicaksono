@@ -1,26 +1,9 @@
 ## Yoo... Chat! I'm Steven Andrian Pranata Wicaksono 👋
 
-<!-- Ganti URL di bawah dengan link hasil upload video di GitHub / hosting video -->
-
-> 🎬 **Video:** [Tonton WhatsApp Video 2026-11-24 at 22.56.18.mp4](URL-HASIL-UPLOAD-VIDEO)
-
-<!-- Jika ingin menyertakan gambar preview/thumbnail yang bisa diklik:
-[![Preview Video](URL-GAMBAR-THUMBNAIL)](URL-HASIL-UPLOAD-VIDEO)
--->
+https://github.com/user-attachments/assets/GANTI-DENGAN-URL-DARI-GITHUB-ISSUE
 
 <!--
 **stevenwicaksono/stevenwicaksono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 - 🔭 Lagi cari kerja sebagai **Full Stack Web Developer**, proyek yang berhubungan sama data juga aku mau banget
