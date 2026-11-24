@@ -2,7 +2,7 @@
 
 <p align="center">
   <video width="600" autoplay loop muted playsinline>
-    <source src="./naruto.mp4" type="video/mp4">
+    <source src="./dattebayo.mp4" type="video/mp4">
   </video>
 </p>
 
