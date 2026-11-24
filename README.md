@@ -1,5 +1,5 @@
 <h1 align="center">
-  Yoo... Chat! I'm Steven Andrian Pranata Wicaksono 👋
+  Yoo... Chat! I'm Steven 👋
 </h1>
 
 <p align="center">
