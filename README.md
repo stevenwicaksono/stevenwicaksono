@@ -1,9 +1,7 @@
 ## Yoo... Chat! I'm Steven Andrian Pranata Wicaksono 👋
 
 <p align="center">
-  <video width="600" autoplay loop muted playsinline>
-    <source src="./dattebayo.mp4" type="video/mp4">
-  </video>
+  <img src="./dattebayo.gif" width="600">
 </p>
 
 - 🔭 Lagi cari kerja sebagai **Full Stack Web Developer**
