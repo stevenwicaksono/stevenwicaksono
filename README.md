@@ -31,11 +31,11 @@
 </div>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=stevenwicaksono&show_icons=true&theme=yeblu" width="450" alt="GitHub Stats" /><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF6A00&vCenter=true&repeat=true&width=435&height=45&lines=%F0%9F%93%8A+GitHub+Stats+%F0%9F%93%88" alt="GitHub Stats" /><br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:B71C1C&height=3&section=header" width="100%" alt="Divider" /><br>
-<img src="https://github-readme-stats.vercel.app/api?username=stevenwicaksono&show_icons=true&count_private=true&include_all_commits=true&bg_color=252525&border_color=E4E2E2&title_color=F0C030&text_color=A8D08D&icon_color=F0C030&ring_color=F0C030&border_radius=6" alt="GitHub Stats" /><br>
-<img src="https://streak-stats.demolab.com/?user=stevenwicaksono&background=252525&border=E4E2E2&ring=F0C030&fire=FF8C00&currStreakNum=F0C030&sideNums=F0C030&currStreakLabel=FF8C00&sideLabels=F0C030&dates=A8D08D&stroke=555555&border_radius=6" alt="GitHub Streak" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenwicaksono&layout=compact&langs_count=6&bg_color=252525&border_color=E4E2E2&title_color=F0C030&text_color=A8D08D&border_radius=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=stevenwicaksono&show_icons=true&bg_color=252525&border_color=E4E2E2&title_color=F0C030&text_color=A8D08D&icon_color=F0C030&ring_color=F0C030&border_radius=6" width="450" alt="GitHub Stats" /><br>
+<img src="https://streak-stats.demolab.com/?user=stevenwicaksono&background=252525&border=E4E2E2&ring=F0C030&fire=FF8C00&currStreakNum=F0C030&sideNums=F0C030&currStreakLabel=FF8C00&sideLabels=F0C030&dates=A8D08D&stroke=555555&border_radius=6" width="450" alt="GitHub Streak" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenwicaksono&layout=compact&langs_count=6&bg_color=252525&border_color=E4E2E2&title_color=F0C030&text_color=A8D08D&border_radius=6" width="450" alt="Top Languages" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,50:FF3D00,100:FF6A00&height=90&section=footer&reversal=true" width="100%" alt="Footer" />
