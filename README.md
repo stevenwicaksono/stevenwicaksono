@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Chakra-100%25-B71C1C?style=for-the-badge" alt="Chakra" />
 <img src="https://img.shields.io/badge/Never%20Give%20Up-Dattebayo-000000?style=for-the-badge" alt="Dattebayo" />
 
-<div align="left">
+< align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF6A00&vCenter=true&repeat=true&width=435&height=45&lines=%F0%9F%94%A5+Connect+With+Me+%F0%9F%A4%9D" alt="Connect With Me" /><br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:B71C1C&height=3&section=header" width="100%" alt="Divider" /><br>
 <a href="https://github.com/USERNAME_GITHUB_KAMU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -14,8 +14,6 @@
 <a href="https://www.threads.com/@stevenwicaksonoo"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
 <a href="https://www.tiktok.com/@stvnandrian17"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="mailto:steven.wicaksono17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF6A00&vCenter=true&repeat=true&width=435&height=45&lines=%E2%9A%A1+Tech+Stack+%F0%9F%9B%A0%EF%B8%8F" alt="Tech Stack" /><br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:B71C1C&height=3&section=header" width="100%" alt="Divider" /><br>
