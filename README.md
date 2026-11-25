@@ -31,7 +31,7 @@
 </div>
 
 <div align="left">
-![Steven GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenwicaksono&show_icons=true&theme=yeblu)<br>
+<img src="https://github-readme-stats.vercel.app/api?username=stevenwicaksono&show_icons=true&theme=yeblu" width="450" alt="GitHub Stats" /><br><br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:B71C1C&height=3&section=header" width="100%" alt="Divider" /><br>
 <img src="https://github-readme-stats.vercel.app/api?username=stevenwicaksono&show_icons=true&count_private=true&include_all_commits=true&bg_color=252525&border_color=E4E2E2&title_color=F0C030&text_color=A8D08D&icon_color=F0C030&ring_color=F0C030&border_radius=6" alt="GitHub Stats" /><br>
 <img src="https://streak-stats.demolab.com/?user=stevenwicaksono&background=252525&border=E4E2E2&ring=F0C030&fire=FF8C00&currStreakNum=F0C030&sideNums=F0C030&currStreakLabel=FF8C00&sideLabels=F0C030&dates=A8D08D&stroke=555555&border_radius=6" alt="GitHub Streak" /><br>
