@@ -4,6 +4,25 @@
 <img src="./dattebayo.gif" width="100%" alt="Naruto Dattebayo" /><br>
 <img src="https://img.shields.io/badge/Hokage%20Mode-ON-FF6A00?style=for-the-badge&logo=github&logoColor=white" alt="Hokage Mode" />
 <img src="https://img.shields.io/badge/Chakra-100%25-B71C1C?style=for-the-badge" alt="Chakra" />
-<img src="https://img.shields.io/badge/Never%20Give%20Up-Dattebayo-000000?style=for-the-badge" alt="Dattebayo" /><br>
+<img src="https://img.shields.io/badge/Never%20Give%20Up-Dattebayo-000000?style=for-the-badge" alt="Dattebayo" />
+
+<h3>🔗 Connect With Me</h3>
+<a href="https://github.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://instagram.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://discord.com/users/ID_DISCORD_KAMU"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+<h3>🛠️ Tech Stack</h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,50:FF3D00,100:FF6A00&height=90&section=footer&reversal=true" width="100%" alt="Footer" />
 </div>
