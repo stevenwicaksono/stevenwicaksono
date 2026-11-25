@@ -15,6 +15,8 @@
 <a href="https://www.tiktok.com/@stvnandrian17"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="mailto:steven.wicaksono17@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF6A00&vCenter=true&repeat=true&width=435&height=45&lines=%E2%9A%A1+Tech+Stack+%F0%9F%9B%A0%EF%B8%8F" alt="Tech Stack" /><br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:B71C1C&height=3&section=header" width="100%" alt="Divider" /><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
