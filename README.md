@@ -38,5 +38,21 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenwicaksono&layout=compact&langs_count=6&bg_color=252525&border_color=E4E2E2&title_color=F0C030&text_color=A8D08D&border_radius=6" width="380" alt="Top Languages" />
 </div>
 
+<p data-importer="text" align="left">Play Games With Me</p>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevenwicaksono/stevenwicaksono/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevenwicaksono/stevenwicaksono/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stevenwicaksono/stevenwicaksono/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/stevenwicaksono/stevenwicaksono/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,50:FF3D00,100:FF6A00&height=90&section=footer&reversal=true" width="100%" alt="Footer" />
 </div>
