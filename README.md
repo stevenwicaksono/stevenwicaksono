@@ -30,8 +30,6 @@
 
 </div>
 
-##### My Github Stats
-
 [![Steven GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenwicaksono&show_icons=true&theme=yeblu)]
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,50:FF3D00,100:FF6A00&height=90&section=footer&reversal=true" width="100%" alt="Footer" />
