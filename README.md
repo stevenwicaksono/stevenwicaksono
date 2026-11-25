@@ -11,8 +11,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:B71C1C&height=3&section=header" width="100%" alt="Divider" /><br>
 <a href="https://github.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://instagram.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://discord.com/users/ID_DISCORD_KAMU"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF6A00&vCenter=true&repeat=true&width=435&height=45&lines=%E2%9A%A1+Tech+Stack+%F0%9F%9B%A0%EF%B8%8F" alt="Tech Stack" /><br>
