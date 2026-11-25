@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Chakra-100%25-B71C1C?style=for-the-badge" alt="Chakra" />
 <img src="https://img.shields.io/badge/Never%20Give%20Up-Dattebayo-000000?style=for-the-badge" alt="Dattebayo" />
 
+<div align="right">
 <h3>🔗 Connect With Me</h3>
 <a href="https://github.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://instagram.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -23,6 +24,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B71C1C,50:FF3D00,100:FF6A00&height=90&section=footer&reversal=true" width="100%" alt="Footer" />
 </div>
