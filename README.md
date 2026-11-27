@@ -33,17 +33,20 @@
 
 </div>
 
-<div align="center">
+<!-- GITHUB STATS -->
+<div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=FF6A00&vCenter=true&repeat=true&width=300&height=35&lines=%F0%9F%93%8A+GitHub+Stats+%F0%9F%93%88" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=stevenwicaksono&show_icons=true&include_all_commits=true&rank_icon=default&bg_color=252525&border_color=E4E2E2&title_color=F0C030&text_color=A8D08D&icon_color=F0C030&ring_color=F0C030&border_radius=6" width="610" alt="GitHub Stats" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:B71C1C&height=3&section=header" width="100%" alt="Divider" />
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=stevenwicaksono&show_icons=true&include_all_commits=true&bg_color=252525&border_color=FF6A00&title_color=F0C030&text_color=A8D08D&icon_color=FF8C00&border_radius=10" width="420" alt="GitHub Stats" />
+<!-- GITHUB STREAK -->
+<img src="https://streak-stats.demolab.com/?user=stevenwicaksono&background=252525&border=E4E2E2&ring=F0C030&fire=FF8C00&currStreakNum=F0C030&sideNums=F0C030&currStreakLabel=FF8C00&sideLabels=F0C030&dates=A8D08D&stroke=555555&border_radius=6" width="670" alt="GitHub Streak" />
 
-<img src="https://streak-stats.demolab.com/?user=stevenwicaksono&background=252525&border=FF6A00&ring=F0C030&fire=FF8C00&currStreakNum=F0C030&sideNums=F0C030&currStreakLabel=FF8C00&sideLabels=F0C030&dates=A8D08D&stroke=555555&border_radius=10" width="420" alt="GitHub Streak" />
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenwicaksono&layout=compact&langs_count=8&bg_color=252525&border_color=FF6A00&title_color=F0C030&text_color=A8D08D&border_radius=10" width="420" alt="Top Languages" />
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenwicaksono&layout=compact&langs_count=6&bg_color=252525&border_color=E4E2E2&title_color=F0C030&text_color=A8D08D&border_radius=6" width="407" alt="Top Languages" />
 
 </div>
 
