@@ -3,10 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FF6A00&center=true&vCenter=true&repeat=true&width=520&height=40&lines=Welcome+to+my+GitHub+profile!+%F0%9F%8D%A5;Believe+it!+Dattebayo!;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /><br>
 <img src="./dattebayo.gif" width="100%" alt="Naruto Dattebayo" /><br>
 
-![Hokage Mode](https://raster.shields.io/badge/Hokage_Mode-ON-FF6A00?style=for-the-badge&logo=github&logoColor=white)
-
-<img src="https://img.shields.io/badge/Chakra-100%25-B71C1C?style=for-the-badge" alt="Chakra" />
-<img src="https://img.shields.io/badge/Never%20Give%20Up-Dattebayo-000000?style=for-the-badge" alt="Dattebayo" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Hokage_Mode-ON-FF6A00?style=for-the-badge&logo=github&logoColor=white" alt="Hokage Mode" />
+  <img src="https://img.shields.io/badge/Chakra-100%25-B71C1C?style=for-the-badge" alt="Chakra" />
+  <img src="https://img.shields.io/badge/Never%20Give%20Up-Dattebayo-000000?style=for-the-badge" alt="Dattebayo" />
+</div>
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF6A00&vCenter=true&repeat=true&width=435&height=45&lines=%F0%9F%94%A5+Connect+With+Me+%F0%9F%A4%9D" alt="Connect With Me" /><br>
